@@ -22,6 +22,7 @@
 ### Languages, Frameworks & Tools 🛠
 
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <i class="fab fa-js"></i> <!-- JavaScript -->
   <i class="fab fa-react"></i> <!-- React -->
   <i class="fab fa-node-js"></i> <!-- Node.js -->
