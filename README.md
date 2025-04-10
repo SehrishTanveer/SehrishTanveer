@@ -1,7 +1,8 @@
 <head>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 </head>
-<h1 align="center">Hi, I'm Sehrish Tanveer</h1>
+
+<h1 align="center">Hi 👋, I'm Sehrish Tanveer</h1>
 <h3 align="center">Crafting Future with ❤️ and Tech</h3>
 
 <p align="center">
@@ -22,7 +23,6 @@
 ### Languages, Frameworks & Tools 🛠
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <i class="fab fa-js"></i> <!-- JavaScript -->
   <i class="fab fa-react"></i> <!-- React -->
   <i class="fab fa-node-js"></i> <!-- Node.js -->
@@ -66,4 +66,5 @@
 ---
 
 <p align="center">Building with passion & purpose. Thanks for visiting! ⭐</p>
+
 
