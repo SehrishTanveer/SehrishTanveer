@@ -19,8 +19,7 @@
 ### Languages, Frameworks & Tools 🛠
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,cpp,cs,java,github,vscode,tailwindcss,bootstrap,nodejs,express,mongodb,postgresql,python,postman,figma,git,jquery,materialui,html,css" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Framer_Motion_logo.svg" alt="Framer Motion" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,cpp,cs,java,github,vscode,tailwindcss,bootstrap,nodejs,express,mongodb,postgresql,python,postman,figma,git,jquery,materialui,html,css,atom,codepen,eclipse,flask,mysql,powershell,pycharm," />
 </div>
 
 ---
