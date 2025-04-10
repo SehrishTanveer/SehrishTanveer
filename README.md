@@ -1,8 +1,4 @@
-<head>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
-</head>
-
-<h1 align="center">Hi 👋, I'm Sehrish Tanveer</h1>
+<h1 align="center">Hi, I'm Sehrish Tanveer</h1>
 <h3 align="center">Crafting Future with ❤️ and Tech</h3>
 
 <p align="center">
@@ -22,31 +18,9 @@
 
 ### Languages, Frameworks & Tools 🛠
 
-<p align="left">
-  <i class="fab fa-js"></i> <!-- JavaScript -->
-  <i class="fab fa-react"></i> <!-- React -->
-  <i class="fab fa-node-js"></i> <!-- Node.js -->
-  <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
-  <i class="fab fa-css3-alt"></i> <!-- CSS -->
-  <i class="fab fa-html5"></i> <!-- HTML -->
-  <i class="fab fa-github"></i> <!-- GitHub -->
-  <i class="fab fa-java"></i> <!-- Java -->
-  <i class="fab fa-figma"></i> <!-- Figma -->
-  <i class="fab fa-python"></i> <!-- Python -->
-  <i class="fab fa-postgresql"></i> <!-- PostgreSQL -->
-  <i class="fab fa-git"></i> <!-- Git -->
-  <i class="fab fa-jquery"></i> <!-- jQuery -->
-  <i class="fab fa-mongodb"></i> <!-- MongoDB -->
-  <i class="fab fa-next-js"></i> <!-- Next.js -->
-  <i class="fab fa-cplusplus"></i> <!-- C++ -->
-  <i class="fab fa-cuttlefish"></i> <!-- C# -->
-  <i class="fab fa-wpforms"></i> <!-- Express -->
-  <i class="fab fa-tasks"></i> <!-- Material UI -->
-  <i class="fab fa-postman"></i> <!-- Postman -->
-  <i class="fab fa-framer"></i> <!-- Framer Motion -->
-  <i class="fab fa-tailwindcss"></i> <!-- TailwindCSS -->
-  <i class="fab fa-visual-studio-code"></i> <!-- Visual Studio Code -->
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,cpp,cs,java,github,vscode,tailwindcss,bootstrap,nodejs,express,mongodb,postgresql,python,postman,framer,figma,git,jquery,materialui,html,css" />
+</div>
 
 ---
 
