@@ -26,7 +26,7 @@
 
 ### 📌 Featured Projects
 
-- 🎯 [Portfolio Website](https://your-portfolio-link.com) – My personal portfolio built with React & TailwindCSS  
+- 🎯 [Portfolio Website]([https://your-portfolio-link.com](https://personal-portfolio-henna-iota-94.vercel.app/)) – My personal portfolio built with React & TailwindCSS  
 
 > More coming soon... stay tuned!
 
@@ -35,7 +35,7 @@
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sehrish-tanveer-500283279)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 🌐 [Portfolio Website]([https://your-portfolio-link.com](https://personal-portfolio-henna-iota-94.vercel.app/))
 
 ---
 
