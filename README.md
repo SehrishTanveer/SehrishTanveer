@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sehrish Tanveer</h1>
+<head>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+</head>
+<h1 align="center">Hi, I'm Sehrish Tanveer</h1>
 <h3 align="center">Crafting Future with ❤️ and Tech</h3>
 
 <p align="center">
@@ -19,29 +22,29 @@
 ### Languages, Frameworks & Tools 🛠
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C#-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-00D8FF?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF1493?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <i class="fab fa-js"></i> <!-- JavaScript -->
+  <i class="fab fa-react"></i> <!-- React -->
+  <i class="fab fa-node-js"></i> <!-- Node.js -->
+  <i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
+  <i class="fab fa-css3-alt"></i> <!-- CSS -->
+  <i class="fab fa-html5"></i> <!-- HTML -->
+  <i class="fab fa-github"></i> <!-- GitHub -->
+  <i class="fab fa-java"></i> <!-- Java -->
+  <i class="fab fa-figma"></i> <!-- Figma -->
+  <i class="fab fa-python"></i> <!-- Python -->
+  <i class="fab fa-postgresql"></i> <!-- PostgreSQL -->
+  <i class="fab fa-git"></i> <!-- Git -->
+  <i class="fab fa-jquery"></i> <!-- jQuery -->
+  <i class="fab fa-mongodb"></i> <!-- MongoDB -->
+  <i class="fab fa-next-js"></i> <!-- Next.js -->
+  <i class="fab fa-cplusplus"></i> <!-- C++ -->
+  <i class="fab fa-cuttlefish"></i> <!-- C# -->
+  <i class="fab fa-wpforms"></i> <!-- Express -->
+  <i class="fab fa-tasks"></i> <!-- Material UI -->
+  <i class="fab fa-postman"></i> <!-- Postman -->
+  <i class="fab fa-framer"></i> <!-- Framer Motion -->
+  <i class="fab fa-tailwindcss"></i> <!-- TailwindCSS -->
+  <i class="fab fa-visual-studio-code"></i> <!-- Visual Studio Code -->
 </p>
 
 ---
