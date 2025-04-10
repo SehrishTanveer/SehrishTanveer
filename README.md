@@ -2,7 +2,7 @@
 <h3 align="center">Crafting Future with ❤️ and Tech</h3>
 
 <p align="center">
-  Software Engineer | Full Stack Developer | Passionate Coder | 🇵🇰 Pakistan
+  Software Engineer | Full Stack Developer | Passionate Coder | Pakistan 🇵🇰 
 </p>
 
 ---
@@ -57,7 +57,6 @@
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sehrish-tanveer-500283279)
-- 📸 [Instagram](https://www.instagram.com/yourinstalink)
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 
 ---
