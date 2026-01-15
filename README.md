@@ -1,5 +1,5 @@
+![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
 <h1 align="center">Hi, I'm Sehrish Tanveer</h1>
-<h3 align="center">Turning Data into Insights with ❤️ and Tech</h3>
 
 <p align="center">
   Data Analytics Enthusiast | Software Engineer | Turning Data into Insights
@@ -35,7 +35,7 @@
 </div>
 
 ---
-### Data Analytics & BI Tools 📊
+### 📊 Data Analytics, BI & ML Tools
 
 <div align="center">
     <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />
@@ -46,16 +46,12 @@
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    
+    <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+    <img height="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+    <img height="48" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+    <img height="48" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 </div>
 
----
-
-### 📌 Featured Projects
-
-- 🎯 [Portfolio Website]((https://personal-portfolio-henna-iota-94.vercel.app/)) – My personal portfolio built with React & TailwindCSS  
-
-> More coming soon... stay tuned!
 
 ---
 
